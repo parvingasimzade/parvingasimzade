@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%#5198E2&size=18&vCenter=true&height=20&lines=I'm+Parvin+Gasimzade;My+technical+skills.;)](https://github.com/parvingasimzade)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%5198E2&size=18&vCenter=true&height=20&lines=I'm+Parvin+Gasimzade;My+technical+skills.;)](https://github.com/parvingasimzade)
 
 
 ![](https://komarev.com/ghpvc/?username=parvingasimzade&style=flat&color=blue)
